@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "cypress": "^12.13.0"
+  },
+  "name": "cypress-project",
+  "version": "1.0.0",
+  "main": "cypress.config.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress":"cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
